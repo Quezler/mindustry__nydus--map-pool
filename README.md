@@ -10,7 +10,7 @@ Rules:
 
 •If you want to submit the built-in maps, add `[Built-in]` to your title.
 
-Feel free to add (or remove) maps via pull requests based soley on your own opinion,  
+Feel free to add (or remove) maps via pull requests based solely on your own opinion,  
 do not be afraid to offend people with your own taste :slightly_smiling_face:  
 (discussing them can happen in the pull request)
 
