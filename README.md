@@ -6,6 +6,8 @@ Rules:
 
 •Map has to be `.msav` file type.
 
+•Filename must be fairly similar to the ingame name of the map.
+
 •Please dont submit copies of the existing maps.
 
 •If you want to submit the built-in maps, add `[Built-in]` to your title.
