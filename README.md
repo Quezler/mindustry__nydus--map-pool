@@ -1,21 +1,16 @@
-This repository is for submitting maps to the `mindustry.nydus.app` server.
+# Nydus Map Pool
 
-Submit your maps using the pull request feature of github.
+This is a repository for submitting maps to the `mindustry.nydus.app` server.<br>
+To submit maps use the Pull Request feature of github.
 
-Rules:
+### Rules:
 
-•Map has to be `.msav` file type.
+1: Map has to be a `.msav` file.<br>
+2: Filename must be fairly similar to the in-game name of the map.<br>
+3: Map must not be a copy of an existing map in the repository.<br>
 
-•Filename must be fairly similar to the ingame name of the map.
+---
 
-•Please dont submit copies of the existing maps.
-
-•If you want to submit the built-in maps, add `[Built-in]` to your title.
-
-Feel free to add (or remove) maps via pull requests based solely on your own opinion,  
-do not be afraid to offend people with your own taste :slightly_smiling_face:  
+Feel free to add (or remove) maps via pull requests based solely on your own opinion,<br>
+don't be afraid to offend people with your own taste :slightly_smiling_face:<br>
 (discussing them can happen in the pull request)
-
-> also, this readme file looks horrible right now, so feel free to polish it up via a pull request as well :no_mouth:
-
-![lucas](https://pngimage.net/wp-content/uploads/2019/05/lucas-the-spider-png-1-300x200.png)
