@@ -8,7 +8,6 @@ To submit maps use the Pull Request feature of github.
 1: Map has to be a `.msav` file.<br>
 2: Filename must be fairly similar to the in-game name of the map.<br>
 3: Map must not be a copy of an existing map in the repository.<br>
-4: If the map is a built-in map then add `[Built-In]` to the map title.<br>
 
 ---
 
