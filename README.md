@@ -13,4 +13,4 @@ To submit maps use the Pull Request feature of github.
 
 Feel free to add (or remove) maps via pull requests based solely on your own opinion,<br>
 don't be afraid to offend people with your own taste :slightly_smiling_face:<br>
-(discussing them can happen in the pull request)
+(discussing them can happen in the pull request) 
