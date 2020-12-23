@@ -1,13 +1,13 @@
 # Nydus Map Pool
 
-This is a repository for submitting maps to the `mindustry.nydus.app` server.<br>
-To submit maps use the Pull Request feature of github or post them in the #maps channel on the nydus discord.
+This is a repository for submitting maps to the BE `mindustry.nydus.app` server.<br>
+To submit maps use the Pull Request feature of github or post them in the #map-submissions channel on the nydus discord by doing !map submit with the msav attached in #lunch-sfw.
 
 ### Rules:
 
 1: Map has to be a `.msav` file.<br>
-2: Filename must be fairly similar to the in-game name of the map.<br>
-3: Map must not be a copy of an existing map in the repository.<br>
+2: Filename must be the in-game name of the map.<br>
+3: Map must have a dedscription.<br>
 4: No sandbox blocks unless its for the enemy attack team.<br>
 5: Try to keep suggestions sensible.<br>
 
