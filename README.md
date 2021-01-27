@@ -10,6 +10,7 @@ To submit maps use the Pull Request feature of github or post them in the #map-s
 3: Map must have a dedscription.<br>
 4: No sandbox blocks unless its for the enemy attack team.<br>
 5: Try to keep suggestions sensible.<br>
+6: Preferably named like this: gamemode_map-name
 
 ---
 
