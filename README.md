@@ -17,3 +17,7 @@ To submit maps use the Pull Request feature of github or post them in the #map-s
 Feel free to add (or remove) maps via pull requests based solely on your own opinion,<br>
 don't be afraid to offend people with your own taste :slightly_smiling_face:<br>
 (discussing them can happen in the pull request)
+
+https://discord.com/channels/649590685829300245/743365828941971466/825069809498456164
+.Quezle˙ the Roomba — Today at 19:12
+> (just commit something to the map pool to refresh it)
