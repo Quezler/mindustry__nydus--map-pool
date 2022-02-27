@@ -1,7 +1,7 @@
 # Nydus Map Pool
 
 This is a repository for submitting maps to the BE `be.mindustry.nydus.app` server.<br>
-To submit maps use the Pull Request feature of github or post them in the #map-submissions channel on the nydus discord by doing !map submit with the msav attached in #lunch-sfw.
+To submit maps use the Pull Request feature of github or post them in the `#map-submissions` channel on the nydus discord by doing `!map submit` with the msav attached in `#map`.
 
 ### Rules:
 
